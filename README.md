@@ -1,4 +1,4 @@
-## ABOUT
+!['PB logo for Patrick Beeson'](https://github.com/patrickbeeson/readme/blob/master/pb_logo_white.png)
 
 Patrick Beeson is a full-stack web developer and digital strategist.
 
@@ -18,6 +18,8 @@ He has taught journalism at the University of Tennessee, and edited the award-wi
 
 Beeson earned his BS in public relations from Appalachian State University, and his MA in journalism from the University of Alabama.
 
+*[Download Patrick's resume as a PDF](https://github.com/patrickbeeson/readme/blob/master/patrick_beeson_resume_09262014.pdf)*
+
 ## SPECIALITES
 
 * Full-stack web application development with a mobile-first perspective
@@ -29,6 +31,8 @@ Beeson earned his BS in public relations from Appalachian State University, and 
 ## LANGUAGES
 
 Experienced with Python (and web frameworks Django/Flask), HTML, SASS/CSS (and frameworks Bootstrap/Bourbon/Susy), JavaScript (and jQuery), Apache/NGINX and PostgreSQL.
+
+*[See some of Patrick's past and current projects in his repositories on GitHub](https://github.com/patrickbeeson?tab=repositories)*
 
 ## CONTACT
 
