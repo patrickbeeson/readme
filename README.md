@@ -40,7 +40,7 @@ These are a few highlights from Patrick's work:
 
 * Lowes Food website redesign ([homepage screenshot](https://dl.dropboxusercontent.com/u/1891197/lowes_foods_homepage.png), http://www.lowesfoods.com): This project required a responsive front-end (HTML/SASS/CSS/JS) built atop the client's existing content management system. I used a mix of Bootstrap, Bourbon and jQuery to achieve a design crafted by our designers.
 * DIY Trainer ([screenshots](https://www.dropbox.com/sh/vpsbq5cohm33jmx/AABY_bE3v-ZQbl22yyQvRxmSa?dl=0), [project source code](https://github.com/patrickbeeson/diy-trainer)): Though no longer live, this responsive project for Lowe's Home Improvement required a full-stack build using Django, PostgreSQL, Apache and front-end frameworks Bourbon/Neat and jQuery.
-* [Share the Sunshine](http://shareasunshine.com): This responsive project for Sunshine Beverages, Inc. required a full-stack build using Flask, payment-processor Stripe, and front-end frameworks Bootstrap, Compass and jQuery.
+* Share a Sunshine ([live website](http://shareasunshine.com), [source code](https://github.com/patrickbeeson/share-a-sunshine)]: This responsive project for Sunshine Beverages, Inc. required a full-stack build using Flask, payment-processor Stripe, and front-end frameworks Bootstrap, Compass and jQuery.
 
 *Smaller projects:*
 
